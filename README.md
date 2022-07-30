@@ -47,8 +47,20 @@ A comment in PDF starts with %
 
 (Learn more: https://resources.infosecinstitute.com/topic/pdf-file-format-basic-structure/)
 
+And Use pdfid.py, peepdf.py and pdf-parser.py to extract strings, URLs, Embedded Files, Flate decode and content of objects of PDFs
 
-![pdf1](https://user-images.githubusercontent.com/107531426/181880046-1436296e-1070-4409-a32b-c481a3ef6e05.PNG)
-![pdf2](https://user-images.githubusercontent.com/107531426/181880051-2e92c585-cfb7-43b6-b572-8800a73b6476.PNG)
-![pdf3](https://user-images.githubusercontent.com/107531426/181880055-baf66f4e-3224-4cdf-a044-832f2a423d3d.PNG)
+
+<img width="460" alt="Capture" src="https://user-images.githubusercontent.com/107531426/181880046-1436296e-1070-4409-a32b-c481a3ef6e05.PNG">
+<img width="660" alt="Capture" src="https://user-images.githubusercontent.com/107531426/181880051-2e92c585-cfb7-43b6-b572-8800a73b6476.PNG">
+<img width="660" alt="Capture" src="https://user-images.githubusercontent.com/107531426/181880055-baf66f4e-3224-4cdf-a044-832f2a423d3d.PNG">
+
+After parsing we can see the PDF has a URL which is malicious
 <img width="739" alt="nrl4" src="https://user-images.githubusercontent.com/107531426/181880057-8fd92e48-a637-4c0c-b542-0e2a9029523b.PNG">
+
+And when you open the malicious PDF, it will redirect you to above malicious URL and here we can see the malicious network activity too. 
+<img width="610" alt="Capture1" src="https://user-images.githubusercontent.com/107531426/181925239-10ec90dd-8893-443a-973f-b735325f9713.PNG">
+<img width="599" alt="Captureg" src="https://user-images.githubusercontent.com/107531426/181925758-b743128f-13ca-4149-a6e6-74993e99b9bb.PNG">
+
+
+
+
