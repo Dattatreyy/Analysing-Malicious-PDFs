@@ -1,4 +1,4 @@
-# Analysing-PDFs 📁
+# Analysing Malicous PDFs 📁
 
 PDFs are sometimes tricky to analyse. Malware Author can use this for Phishing, Implement Droppers & Downloaders.
 
