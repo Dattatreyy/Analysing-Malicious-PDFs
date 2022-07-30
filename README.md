@@ -58,8 +58,9 @@ After parsing we can see the PDF has a URL which is malicious
 <img width="739" alt="nrl4" src="https://user-images.githubusercontent.com/107531426/181880057-8fd92e48-a637-4c0c-b542-0e2a9029523b.PNG">
 
 And when you open the malicious PDF, it will redirect you to above malicious URL and here we can see the malicious network activity too. 
+<img width="469" alt="Captureg" src="https://user-images.githubusercontent.com/107531426/181925758-b743128f-13ca-4149-a6e6-74993e99b9bb.PNG">
 <img width="610" alt="Capture1" src="https://user-images.githubusercontent.com/107531426/181925239-10ec90dd-8893-443a-973f-b735325f9713.PNG">
-<img width="599" alt="Captureg" src="https://user-images.githubusercontent.com/107531426/181925758-b743128f-13ca-4149-a6e6-74993e99b9bb.PNG">
+
 
 
 
